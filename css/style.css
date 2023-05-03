@@ -1,0 +1,16 @@
+/* Geral */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: League Spartan;
+}
+
+body {
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Conteudo */
